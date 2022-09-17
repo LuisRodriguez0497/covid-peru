@@ -1,9 +1,8 @@
 Este proyecto fue arrancado con [Create React App](https://github.com/facebook/create-react-app).
 
-# Web de Organización Covid-19
+# Pagina Web Covid Pero
 
-Este código pertenece al Frontend de la organización ["Covid19-Peru"](https://github.com/Covid19-Peru), el presente repositorio cuyo fin y objetivo es el de mantener informado al usurio final con respecto al tema del "Covid19".<br />
-[click aqui](https://covid19-peru.github.io/Covid19-Peru/)
+Este código pertenece al Frontend de la organización ["Covid-Peru"](https://github.com/Covid19-Peru), el presente repositorio cuyo fin y objetivo es el de mantener informado al usurio final con respecto al tema del "Covid19".<br />
 
 ---
 
@@ -11,7 +10,7 @@ Este código pertenece al Frontend de la organización ["Covid19-Peru"](https://
 
 Descargar:
 ```bash
-git clone https://github.com/Covid19-Peru/Covid19-Peru
+git clone https://github.com/LuisRodriguez0497/covid-peru.git
 ```
 Instalar dependecias :
 ```bash
@@ -47,8 +46,3 @@ git push -u
 ---
 
 
-![Captura1](https://raw.githubusercontent.com/Covid19-Peru/Covid19-Peru/master/github/Captura1.JPG)
----
-![Captura2](https://raw.githubusercontent.com/Covid19-Peru/Covid19-Peru/master/github/Captura2.JPG)
----
-![Captura3](https://raw.githubusercontent.com/Covid19-Peru/Covid19-Peru/master/github/Captura3.JPG)
